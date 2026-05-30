@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevalculate",
+        "uuid": 1528490,
+        "checksum": "bim1t7"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
